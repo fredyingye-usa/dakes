@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you reference these monographs, papers, or datasets, please cite as below."
+type: dataset
+title: "Dr. Ye's Collected Representative Works, Monographs, and Datasets (DaKES)"
+version: 2026.11
+doi: 10.5281/zenodo.23886305
+date-released: 2026-11-01
+url: "https://github.com/fredyingye-usa/dakes"
+license: CC-BY-4.0
+authors:
+  - family-names: "Ye"
+    given-names: "Fred Y."
+    affiliation: "DaKES Institute"
