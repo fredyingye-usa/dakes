@@ -51,6 +51,7 @@
 | 2026-10-22 | `Dataset` | Heterocrystalline chimeric technology -- completed dataset | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23575685.svg)](https://zenodo.org/records/23575685) |
 | 2026-11-06 | `Paper` | Positivity and Microcausality in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24012108.svg)](https://zenodo.org/records/24012108) |
 | 2026-11-06 | `Paper` | Standard Model Embedding and Holonomy Bounds in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24012782.svg)](https://zenodo.org/records/24012782) |
+| 2026-11-06 | `Paper` | Radion Stabilization and Dark Matter Consistency in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24013081.svg)](https://zenodo.org/records/24013081) |
 
 ## 4. Biomedical Papers & Datasets (Multilayer h-Backbones & Spiro-Terpenoid Scaffolds)
 | Date | Type | Title | Permanent Identifier (DOI) |
