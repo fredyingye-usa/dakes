@@ -1,5 +1,11 @@
 # DaKES Institute: Collected Monographs, Papers & Datasets of Prof. Dr. Fred Y. Ye
-
+```mermaid
+graph TD
+    A["<b>Triad Philosophy & Bookics</b><br/>(Meta-Theory: Principle 理 · Mind 心 · Instrument 器)"] --> B["<b>Mathematics</b><br/>Spectral-Geometric RH & BSD<br/>Weil-Hurwitz 4-Gate Certification"]
+    A --> C["<b>Physics & Materials</b><br/>5D Cl(2,3) SVS-EFT Unification<br/>Vortex Field & Heterocrystals (HCT)"]
+    A --> D["<b>Biomedicine</b><br/>Multilayer h-Backbones (KLRB1 / AD)<br/>Spiro-Terpenoid Scaffolds"]
+    A --> E["<b>Economics</b><br/>Grand Synthetic Economics (GSE)<br/>Knowledge-Capital Co-evolution"]
+    B & C & D & E --> F["<b>DaKES Open-Science Base</b><br/>12-Vol Collected Works · 7 Benchmark Datasets · DataAnalyst"]
 [![Collected Works DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886305.svg)](https://zenodo.org/records/23886305)
 [![Website](https://img.shields.io/badge/Platform-dakes.top-0A66C2.svg)](https://www.dakes.top)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
