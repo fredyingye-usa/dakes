@@ -89,6 +89,10 @@ graph TD
 | 2026-07-30 | `Dataset` | Dataset: Theory of heterocrystals | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21702944.svg)](https://zenodo.org/records/21702944) |
 | 2026-08-03 | `Dataset` | Dataset: Heterocrystalline chimeric technology | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21778647.svg)](https://zenodo.org/records/21778647) |
 | 2026-10-22 | `Dataset` | Heterocrystalline chimeric technology -- completed dataset | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23575685.svg)](https://zenodo.org/records/23575685) |
+| 2026-11-06 | `Dataset` | Positivity and Microcausality in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24012108.svg)](https://zenodo.org/records/24012108) |
+| 2026-11-06 | `Dataset` | Standard Model Embedding and Holonomy Bounds in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24012782.svg)](https://zenodo.org/records/24012782) |
+| 2026-11-06 | `Dataset` | Radion Stabilization and Dark Matter Consistency in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24013081.svg)](https://zenodo.org/records/24013081) |
+
 
 ---
 
