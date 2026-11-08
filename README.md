@@ -1,6 +1,7 @@
 # DaKES Institute: Collected Monographs, Papers & Datasets of Prof. Dr. Fred Y. Ye
 
 [![Collected Works DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886305.svg)](https://zenodo.org/records/23886305)
+[![NotebookLM Podcast](https://img.shields.io/badge/NotebookLM-AI_Audio_Overview-4285F4.svg?logo=google)](https://notebooklm.link.google/KhplRaniV973)
 [![Website](https://img.shields.io/badge/Platform-dakes.top-0A66C2.svg)](https://www.dakes.top)
 [![DataAnalyst](https://img.shields.io/badge/Software-DataAnalyst-2ea44f.svg)](https://www.dakes.top/data_analyst.html)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -15,12 +16,11 @@
 
 ## 🌐 Holographic & Multimodal Knowledge Matrix (全息理论架构与 AI 交互门户)
 
-[![NotebookLM AI](https://img.shields.io/badge/NotebookLM-Chat_with_DaKES_AI_Knowledge_Base-4285F4?style=for-the-badge&logo=google)](https://notebooklm.google.com/)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Symphonic_Trailers_%26_AI_Podcasts-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/)
+[![NotebookLM AI](https://img.shields.io/badge/NotebookLM-Chat_with_DaKES_AI_Knowledge_Base-4285F4?style=for-the-badge&logo=google)](https://notebooklm.link.google/KhplRaniV973)
+[![Audio Overview](https://img.shields.io/badge/Audio_Overview-Listen_to_AI_Deep--Dive_Podcast-EA4335?style=for-the-badge&logo=googlepodcasts)](https://notebooklm.link.google/KhplRaniV973)
 [![DataAnalyst Tool](https://img.shields.io/badge/DataAnalyst-Online_Informetric_%26_AI_Engine-00573F?style=for-the-badge&logo=python)](https://www.dakes.top/data_analyst.html)
 
-* 🤖 **Interactive AI Research Assistant (Google NotebookLM):** Explore all 12 volumes of *Collected Representative Works*, mathematical proofs, and datasets via grounded natural-language Q&A. *(Replace the NotebookLM link above with your public shared notebook URL once created).*
-* 🎧 **Multimodal Audio-Visual Lectures (YouTube):** Experience symphonic visual trailers and deep-dive AI audio discussions bridging abstract mathematical-physical structures with classical aesthetics.
+* 🎧 **AI Deep-Dive Audio Overview & Interactive Assistant (Google NotebookLM):** [**Click here to listen to the AI-generated academic podcast & chat interactively**](https://notebooklm.link.google/KhplRaniV973) with all 12 volumes of *Collected Representative Works*, mathematical proofs, physical unifications, and biomedical datasets.
 * 🧭 **Stereoscopic Architecture of the DaKES Theoretical System:**
 
 ```mermaid
