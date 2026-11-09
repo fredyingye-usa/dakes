@@ -132,7 +132,7 @@ graph TD
 
  ---           
 
-## 7. Plain-Text Chronological Archive (原始文本档案列表)
+## Plain-Text Chronological Archive (原始文本档案列表)
 
 <details open>
 <summary><b>Click to expand / collapse the plain-text publication list (点击展开/收起纯文本列表)</b></summary>
