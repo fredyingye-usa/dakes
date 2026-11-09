@@ -126,9 +126,9 @@ graph TD
 ## 6. AI Arts
 | Discipline | Title | Permanent Identifier URL |
 | :--- | :--- | :--- |
-| `Music` | AI Symphonies (MP4) | [![URL](https://www.youtube.com/@FredYe-yye)](https://www.youtube.com/@FredYe-yye)|
-| `Music` | AI Light Music (MP4)| [![URL](https://www.youtube.com/@FredYe-yye/shorts)](https://www.youtube.com/@FredYe-yye/shorts)|
-| `Music` | AI Music(MP3)| [![URL](https://www.dakes.top/static/art.html))](https://www.dakes.top/static/art.html)|
+| `Music` | AI Symphonies (MP4) | [[URL](https://www.youtube.com/@FredYe-yye)](https://www.youtube.com/@FredYe-yye)|
+| `Music` | AI Light Music (MP4)| [[URL](https://www.youtube.com/@FredYe-yye/shorts)](https://www.youtube.com/@FredYe-yye/shorts)|
+| `Music` | AI Music(MP3)| [[URL](https://www.dakes.top/static/art.html)](https://www.dakes.top/static/art.html)|
 
  ---           
 
