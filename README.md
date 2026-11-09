@@ -123,7 +123,16 @@ graph TD
 
 ---
 
-## 6. Plain-Text Chronological Archive (原始文本档案列表)
+## 6. AI Arts
+| Discipline | Title | Permanent Identifier URL |
+| :--- | :--- | :--- |
+| `Music` | AI Symphonies (MP4) | [![URL](https://www.youtube.com/@FredYe-yye)](https://www.youtube.com/@FredYe-yye)|
+| `Music` | AI Light Music (MP4)| [![URL](https://www.youtube.com/@FredYe-yye/shorts)](https://www.youtube.com/@FredYe-yye/shorts)|
+| `Music` | AI Music(MP3)| [![URL](https://www.dakes.top/static/art.html))](https://www.dakes.top/static/art.html)|
+
+ ---           
+
+## 7. Plain-Text Chronological Archive (原始文本档案列表)
 
 <details open>
 <summary><b>Click to expand / collapse the plain-text publication list (点击展开/收起纯文本列表)</b></summary>
