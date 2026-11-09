@@ -1,14 +1,25 @@
 cff-version: 1.2.0
-message: "If you reference these monographs, papers, or datasets, please cite as below."
+message: "If you reference these monographs, papers, or datasets in your research, please cite as below."
 type: dataset
 title: "Dr. Ye's Collected Representative Works, Monographs, and Datasets (DaKES)"
 version: 2026.11
 doi: 10.5281/zenodo.23886305
 date-released: 2026-11-01
 url: "https://github.com/fredyingye-usa/dakes"
+repository-code: "https://github.com/fredyingye-usa/dakes"
 license: CC-BY-4.0
 authors:
   - family-names: "Ye"
     given-names: "Fred Y."
-    affiliation: "DaKES Institute"
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886305.svg)](https://doi.org/10.5281/zenodo.23886305)
+    affiliation: "DaKES Institute & Nanjing University"
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Ye"
+      given-names: "Fred Y."
+  title: "Dr. Ye's Collected Representative Works (Total 12 Vols.)"
+  year: 2026
+  publisher:
+    name: "DaKES Institute / Zenodo"
+  doi: 10.5281/zenodo.23886305
+  url: "https://zenodo.org/records/23886305"
