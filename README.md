@@ -1,6 +1,6 @@
 # DaKES Institute: Collected Monographs, Papers & Datasets of Prof. Dr. Fred Y. Ye
 
-[![Collected Works DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886305.svg)](https://zenodo.org/records/23886305)
+[![Collected Works DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886305.svg)]([https://zenodo.org/records/23886305](https://zenodo.org/records/23886305))
 [![Google Notebook](https://img.shields.io/badge/Google_Notebook-AI_Audio_Overview-4285F4.svg?logo=google)](https://notebooklm.link.google/KhplRaniV973)
 [![Website](https://img.shields.io/badge/Platform-dakes.top-0A66C2.svg)](https://www.dakes.top)
 [![DataAnalyst](https://img.shields.io/badge/Software-DataAnalyst-2ea44f.svg)](https://www.dakes.top/data_analyst.html)
@@ -16,7 +16,7 @@
 
 ## 🌐 Holographic & Multimodal Knowledge Matrix (全息理论架构与 AI 交互门户)
 
-[![Google Notebook](https://img.shields.io/badge/NotebookLM-Chat_with_DaKES_AI_Knowledge_Base-4285F4?style=for-the-badge&logo=google)](https://notebooklm.link.google/KhplRaniV973)
+[![Google Notebook](https://img.shields.io/badge/Google_Notebook-Chat_with_DaKES_AI_Knowledge_Base-4285F4?style=for-the-badge&logo=google)](https://notebooklm.link.google/KhplRaniV973)
 [![Audio Overview](https://img.shields.io/badge/Audio_Overview-Listen_to_AI_Deep--Dive_Podcast-EA4335?style=for-the-badge&logo=googlepodcasts)](https://notebooklm.link.google/KhplRaniV973)
 [![DataAnalyst Tool](https://img.shields.io/badge/DataAnalyst-Online_Informetric_%26_AI_Engine-00573F?style=for-the-badge&logo=python)](https://www.dakes.top/data_analyst.html)
 
@@ -47,26 +47,16 @@ graph TD
 ---
 
 ## 1. Key Academic Monographs & Collected Works (学术专著与代表作全集)
-| Date | Discipline | Monograph Title | Permanent Identifiers (Zenodo DOI & B&N Press ISBN) |
-| :--- | :--- | :--- | :--- |
-| 2026-11-01 | `Collected Works` | **Dr. Ye's Collected Representative Works (Total 12 Vols.)** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886305.svg)](https://zenodo.org/records/23886305) |
-| 2026-07-08 | `Mathematics` | **Spectral-Geometric Program of the Riemann and Grand Riemann Hypotheses** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22060151.svg)](https://zenodo.org/records/22060151) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--182--51852--9-00573F.svg)](https://www.barnesandnoble.com/search?q=9798182518529) |
-| 2026-07-08 | `Mathematics` | **Spectral-Flow and Geometric-Closure Framework for Hodge Classes: A Conditional Program** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22770350.svg)](https://zenodo.org/records/22770350) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--182--51854--3-00573F.svg)](https://www.barnesandnoble.com/search?q=9798182518543) |
-| 2026-06-26 | `Physics` | **Scalar-Vector-Spinor Effective Field Theory: A 5D Cl(2,3) Physical Unification** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23675315.svg)](https://zenodo.org/records/23675315) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--182--50531--4-00573F.svg)](https://www.barnesandnoble.com/search?q=9798182505314)|
-| 2026-06-26 | `Physics` | **Vortex Field Theory: New Principles for Approaching Physical Unification** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23675225.svg)](https://zenodo.org/records/23675225) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--823--18069--6-00573F.svg)](https://www.barnesandnoble.com/search?q=9798823180696)|
-| 2026-10-29 | `Physics` | **Heterocrystalline Chimeric Technology** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23575685.svg)](https://zenodo.org/records/23575685) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09161--5-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091615)|
-| 2026-10-29 | `Economics` | **Grand Synthetic Economics** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09170--7-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091707)|
-| 2026-10-29 | `Philosophy` | **Triad Philosophy** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09191--2-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091912)|
-
-### 🎧🎬 Multimodal Overviews for 5 Flagship Monographs (五大核心专著中英双语播客与视频导览)
-
-| Domain | Flagship Monograph | 🎧 Audio Overview (AI Podcast) | 🎬 Video Overview (Visual Guide) |
-| :--- | :--- | :---: | :---: |
-| **Mathematics**<br>*(RH & GRH)* | **Spectral-Geometric Program of the Riemann and Grand Riemann Hypotheses** | [🇬🇧 English](https://notebooklm.link.google/5WdOp5NUHPBW) \| [🇨🇳 中文](https://notebooklm.link.google/O2PzczEmb4Ke) | [🇬🇧 English](https://notebooklm.link.google/F7M1W0DCJ9QX) \| [🇨🇳 中文](https://notebooklm.link.google/wnHA21vB5K87) |
-| **Physics**<br>*(5D SVS-EFT)* | **Scalar-Vector-Spinor Effective Field Theory: A 5D Cl(2,3) Physical Unification** | [🇬🇧 English](https://notebooklm.link.google/Ry1ZdRHVOnYz) \| [🇨🇳 中文](https://notebooklm.link.google/k9EmC3KgMbnv) | [🇬🇧 English](https://notebooklm.link.google/sEK1m2AqfS88) \| [🇨🇳 中文](https://notebooklm.link.google/TuEQeO8mIwjL) |
-| **Materials**<br>*(HCT)* | **Heterocrystalline Chimeric Technology: Foundations, Mechanisms, and Applications** | [🇬🇧 English](https://notebooklm.link.google/pywaDSSEQRnr) \| [🇨🇳 中文](https://notebooklm.link.google/RFb5ag59QQko) | [🇬🇧 English](https://notebooklm.link.google/dmqdm8t2pYkh) \| [🇨🇳 中文](https://notebooklm.link.google/QxYYG68SRP4F) |
-| **Economics**<br>*(GSE)* | **Grand Synthetic Economics (GSE): Knowledge-Capital Evolutionary Growth Theory** | [🇬🇧 English](https://notebooklm.link.google/BoZ1gUlmq7XT) \| [🇨🇳 中文](https://notebooklm.link.google/UYKbqRSOcQqo) | [🇬🇧 English](https://notebooklm.link.google/ii46kJ79WJ87) \| [🇨🇳 中文](https://notebooklm.link.google/lIyo3DPzYQVO) |
-| **Philosophy**<br>*(Triad Phil)* | **The Triad Philosophy: Merging Western and Eastern Thoughts for Human-Machine Era** | [🇬🇧 English](https://notebooklm.link.google/DQ0gswym5ijS) \| [🇨🇳 中文](https://notebooklm.link.google/SQKOThz0EFQu) | [🇬🇧 English](https://notebooklm.link.google/csDERf4Wj5mq) \| [🇨🇳 中文](https://notebooklm.link.google/obJifgwlvw5n) |
+| Date | Discipline | Monograph Title | Permanent Identifiers (Zenodo DOI & B&N Press ISBN) | Multimodal Overview (Google Notebook) |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-11-01 | `Collected Works` | **Dr. Ye's Collected Representative Works (Total 12 Vols.)** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886305.svg)](https://zenodo.org/records/23886305) | 🎧 **Audio:** [EN](https://notebooklm.link.google/KhplRaniV973) |
+| 2026-07-08 | `Mathematics` | **Spectral-Geometric Program of the Riemann and Grand Riemann Hypotheses** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22060151.svg)](https://zenodo.org/records/22060151) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--182--51852--9-00573F.svg)](https://www.barnesandnoble.com/search?q=9798182518529) | 🎧 **Audio:** [EN](https://notebooklm.link.google/5WdOp5NUHPBW) \| [中文](https://notebooklm.link.google/O2PzczEmb4Ke)<br>🎬 **Video:** [EN](https://notebooklm.link.google/F7M1W0DCJ9QX) \| [中文](https://notebooklm.link.google/wnHA21vB5K87) |
+| 2026-07-08 | `Mathematics` | **Spectral-Flow and Geometric-Closure Framework for Hodge Classes: A Conditional Program** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22770350.svg)](https://zenodo.org/records/22770350) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--182--51854--3-00573F.svg)](https://www.barnesandnoble.com/search?q=9798182518543) | — |
+| 2026-06-26 | `Physics` | **Scalar-Vector-Spinor Effective Field Theory: A 5D Cl(2,3) Physical Unification** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23675315.svg)](https://zenodo.org/records/23675315) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--182--50531--4-00573F.svg)](https://www.barnesandnoble.com/search?q=9798182505314) | 🎧 **Audio:** [EN](https://notebooklm.link.google/Ry1ZdRHVOnYz) \| [中文](https://notebooklm.link.google/k9EmC3KgMbnv)<br>🎬 **Video:** [EN](https://notebooklm.link.google/sEK1m2AqfS88) \| [中文](https://notebooklm.link.google/TuEQeO8mIwjL) |
+| 2026-06-26 | `Physics` | **Vortex Field Theory: New Principles for Approaching Physical Unification** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23675225.svg)](https://zenodo.org/records/23675225) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--823--18069--6-00573F.svg)](https://www.barnesandnoble.com/search?q=9798823180696) | — |
+| 2026-10-29 | `Physics` | **Heterocrystalline Chimeric Technology** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23575685.svg)](https://zenodo.org/records/23575685) [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09161--5-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091615) | 🎧 **Audio:** [EN](https://notebooklm.link.google/pywaDSSEQRnr) \| [中文](https://notebooklm.link.google/RFb5ag59QQko)<br>🎬 **Video:** [EN](https://notebooklm.link.google/dmqdm8t2pYkh) \| [中文](https://notebooklm.link.google/QxYYG68SRP4F) |
+| 2026-10-29 | `Economics` | **Grand Synthetic Economics** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09170--7-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091707) | 🎧 **Audio:** [EN](https://notebooklm.link.google/BoZ1gUlmq7XT) \| [中文](https://notebooklm.link.google/UYKbqRSOcQqo)<br>🎬 **Video:** [EN](https://notebooklm.link.google/ii46kJ79WJ87) \| [中文](https://notebooklm.link.google/lIyo3DPzYQVO) |
+| 2026-10-29 | `Philosophy` | **Triad Philosophy** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09191--2-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091912) | 🎧 **Audio:** [EN](https://notebooklm.link.google/DQ0gswym5ijS) \| [中文](https://notebooklm.link.google/SQKOThz0EFQu)<br>🎬 **Video:** [EN](https://notebooklm.link.google/csDERf4Wj5mq) \| [中文](https://notebooklm.link.google/obJifgwlvw5n) |
 
 ---
 
@@ -106,7 +96,6 @@ graph TD
 | 2026-11-06 | `Dataset` | Standard Model Embedding and Holonomy Bounds in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24012782.svg)](https://zenodo.org/records/24012782) |
 | 2026-11-06 | `Dataset` | Radion Stabilization and Dark Matter Consistency in Scalar–Vector–Spinor Effective Field Theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24013081.svg)](https://zenodo.org/records/24013081) |
 
-
 ---
 
 ## 4. Biomedical Papers & Datasets (Multilayer h-Backbones & Spiro-Terpenoid Scaffolds)
@@ -143,7 +132,7 @@ graph TD
 | `Music` | AI Light Music (MP4)| [[URL](https://www.youtube.com/@FredYe-yye/shorts)](https://www.youtube.com/@FredYe-yye/shorts)|
 | `Music` | AI Music(MP3)| [[URL](https://www.dakes.top/static/art.html)](https://www.dakes.top/static/art.html)|
 
- ---           
+---
 
 ## Plain-Text Chronological Archive (原始文本档案列表)
 
@@ -152,65 +141,65 @@ graph TD
 
 ### Academic monograph
 * **2026-11-1: Dr. Ye's Collected Representative Works (Total 12 Vols.)**  
-  DOI: `10.5281/zenodo.23886305` | URL: https://zenodo.org/records/23886305
+  DOI: `10.5281/zenodo.23886305` | URL: [https://zenodo.org/records/23886305](https://zenodo.org/records/23886305)
 
 ### Mathematical monographs
 * **2026-7-8: Spectral-Geometric Program of the Riemann and Grand Riemann Hypotheses.** B&N Press ISBN: `979-8-182-51852-9`  
-  DOI: `10.5281/zenodo.22060151` | URL: https://zenodo.org/records/22060151
+  DOI: `10.5281/zenodo.22060151` | URL: [https://zenodo.org/records/22060151](https://zenodo.org/records/22060151)
 * **2026-7-8: Spectral-Flow and Geometric-Closure Framework for Hodge Classes: A Conditional Program.** B&N Press ISBN: `979-8-182-51854-3`  
-  DOI: `10.5281/zenodo.22770350` | URL: https://zenodo.org/records/22770350
+  DOI: `10.5281/zenodo.22770350` | URL: [https://zenodo.org/records/22770350](https://zenodo.org/records/22770350)
 
 ### Physical monographs
 * **2026-6-26: Vortex Field Theory: New Principles for Approaching Physical Unification.** B&N Press ISBN: `979-8-823-18069-6`  
-  DOI: `10.5281/zenodo.23675225` | URL: https://zenodo.org/records/23675225
+  DOI: `10.5281/zenodo.23675225` | URL: [https://zenodo.org/records/23675225](https://zenodo.org/records/23675225)
 * **2026-6-26: Scalar-Vector-Spinor Effective Field Theory: A 5D Cl(2,3) Physical Unification.** B&N Press ISBN: `979-8-182-50531-4`  
-  DOI: `10.5281/zenodo.23675315` | URL: https://zenodo.org/records/23675315
+  DOI: `10.5281/zenodo.23675315` | URL: [https://zenodo.org/records/23675315](https://zenodo.org/records/23675315)
 
 ### Mathematical papers
-* **2026-4-24:** Reversal Dual Calculus: Harmonic Regularization in Gravitational Potential and Zeta Function Duality — DOI: `10.5281/zenodo.19764503` | URL: https://zenodo.org/records/19764503
-* **2026-6-27:** Spectral Flow and Categorified Index for Higher-Dimensional Prime-Torus Packets over the Scaling Site — DOI: `10.5281/zenodo.20944516` | URL: https://zenodo.org/records/20944516
-* **2026-6-27:** From Prime Circles to Fargues-Fontaine Curves: A Conditional Spectral-Flow Framework for Local Arithmetic Langlands — DOI: `10.5281/zenodo.20944785` | URL: https://zenodo.org/records/20944785
-* **2026-6-27:** Arithmetic Dirac Packets, Fargues-Fontaine Slopes, and Weil Positivity: A Conditional Spectral Route Toward the Riemann Hypothesis — DOI: `10.5281/zenodo.20945167` | URL: https://zenodo.org/records/20945167
-* **2026-6-28:** Operator Traces, Prime-Power Weights, and a Trace-Compatible Weil Positivity Theorem — DOI: `10.5281/zenodo.20997606` | URL: https://zenodo.org/records/20997606
-* **2026-6-28:** Uniform Convergence of Regularized Determinants for Zeta Spectral Triples: Toward Global Weil Positivity and the Riemann Hypothesis — DOI: `10.5281/zenodo.20998327` | URL: https://zenodo.org/records/20998327
-* **2026-6-28:** Screw Functions, de Branges Spaces, and Zeta Spectral Triples: A Spectral-Geometric Approach to RH and GRH — DOI: `10.5281/zenodo.20998512` | URL: https://zenodo.org/records/20998512
-* **2026-6-29:** Spectral-Geometric Approaches to RH and GRH: The Sobolev-Suzuki L² Framework for WEC and TR — DOI: `10.5281/zenodo.21032614` | URL: https://zenodo.org/records/21032614
-* **2026-7-8:** A Spectral-Geometric Program of Birch and Swinnerton-Dyer Conjecture — DOI: `10.5281/zenodo.21316732` | URL: https://zenodo.org/records/21316732
-* **2026-7-12:** Spectral Paradigm of Analytic Number Theory — DOI: `10.5281/zenodo.23126332` | URL: https://zenodo.org/records/23126332
-* **2026-11-2:** Quantitative Ground State Closure for the Weil Operator and Diagonal Hurwitz Reduction of the Riemann Hypothesis — DOI: `10.5281/zenodo.23886960` | URL: https://zenodo.org/records/23886960
-* **2026-11-2:** Two Decisive Closure Theorems for a Weil Hurwitz Approach to the Riemann Hypothesis — DOI: `10.5281/zenodo.23887241` | URL: https://zenodo.org/records/23887241
-* **2026-11-2:** Four Gate Certification for a Weil Hurwitz Route to the Riemann Hypothesis — DOI: `10.5281/zenodo.23887551` | URL: https://zenodo.org/records/23887551
+* **2026-4-24:** Reversal Dual Calculus: Harmonic Regularization in Gravitational Potential and Zeta Function Duality — DOI: `10.5281/zenodo.19764503` | URL: [https://zenodo.org/records/19764503](https://zenodo.org/records/19764503)
+* **2026-6-27:** Spectral Flow and Categorified Index for Higher-Dimensional Prime-Torus Packets over the Scaling Site — DOI: `10.5281/zenodo.20944516` | URL: [https://zenodo.org/records/20944516](https://zenodo.org/records/20944516)
+* **2026-6-27:** From Prime Circles to Fargues-Fontaine Curves: A Conditional Spectral-Flow Framework for Local Arithmetic Langlands — DOI: `10.5281/zenodo.20944785` | URL: [https://zenodo.org/records/20944785](https://zenodo.org/records/20944785)
+* **2026-6-27:** Arithmetic Dirac Packets, Fargues-Fontaine Slopes, and Weil Positivity: A Conditional Spectral Route Toward the Riemann Hypothesis — DOI: `10.5281/zenodo.20945167` | URL: [https://zenodo.org/records/20945167](https://zenodo.org/records/20945167)
+* **2026-6-28:** Operator Traces, Prime-Power Weights, and a Trace-Compatible Weil Positivity Theorem — DOI: `10.5281/zenodo.20997606` | URL: [https://zenodo.org/records/20997606](https://zenodo.org/records/20997606)
+* **2026-6-28:** Uniform Convergence of Regularized Determinants for Zeta Spectral Triples: Toward Global Weil Positivity and the Riemann Hypothesis — DOI: `10.5281/zenodo.20998327` | URL: [https://zenodo.org/records/20998327](https://zenodo.org/records/20998327)
+* **2026-6-28:** Screw Functions, de Branges Spaces, and Zeta Spectral Triples: A Spectral-Geometric Approach to RH and GRH — DOI: `10.5281/zenodo.20998512` | URL: [https://zenodo.org/records/20998512](https://zenodo.org/records/20998512)
+* **2026-6-29:** Spectral-Geometric Approaches to RH and GRH: The Sobolev-Suzuki L² Framework for WEC and TR — DOI: `10.5281/zenodo.21032614` | URL: [https://zenodo.org/records/21032614](https://zenodo.org/records/21032614)
+* **2026-7-8:** A Spectral-Geometric Program of Birch and Swinnerton-Dyer Conjecture — DOI: `10.5281/zenodo.21316732` | URL: [https://zenodo.org/records/21316732](https://zenodo.org/records/21316732)
+* **2026-7-12:** Spectral Paradigm of Analytic Number Theory — DOI: `10.5281/zenodo.23126332` | URL: [https://zenodo.org/records/23126332](https://zenodo.org/records/23126332)
+* **2026-11-2:** Quantitative Ground State Closure for the Weil Operator and Diagonal Hurwitz Reduction of the Riemann Hypothesis — DOI: `10.5281/zenodo.23886960` | URL: [https://zenodo.org/records/23886960](https://zenodo.org/records/23886960)
+* **2026-11-2:** Two Decisive Closure Theorems for a Weil Hurwitz Approach to the Riemann Hypothesis — DOI: `10.5281/zenodo.23887241` | URL: [https://zenodo.org/records/23887241](https://zenodo.org/records/23887241)
+* **2026-11-2:** Four Gate Certification for a Weil Hurwitz Route to the Riemann Hypothesis — DOI: `10.5281/zenodo.23887551` | URL: [https://zenodo.org/records/23887551](https://zenodo.org/records/23887551)
 
 ### Physical papers & datasets
-* **2026-4-25:** TimeKK_Zenodo: A Modified Kaluza-Klein Framework for Quantum Gravity via Imaginary Time as a Fifth Dimension — DOI: `10.5281/zenodo.19764139` | URL: https://zenodo.org/records/19764139
-* **2026-4-25:** A Unified Operational Framework for Wave–Particle Duality via Metaplectic Transforms — DOI: `10.5281/zenodo.19772394` | URL: https://zenodo.org/records/19772394
-* **2026-4-28:** A Minimal Scalar-Vector-Spinor Effective Field Theory for Dark-Sector Phenomenology and Modified Cosmological Dynamics — DOI: `10.5281/zenodo.19855576` | URL: https://zenodo.org/records/19855576
-* **2026-5-1:** A 5D Scalar-Vector-Spinor Effective Field Theory in Cl(2,3): Real-Imaginary Time Co-ordering Energy-Information — DOI: `10.5281/zenodo.19949736` | URL: https://zenodo.org/records/19949736
-* **2026-5-2:** Metaplectic Holography and Gauge Embedding in 5D SVS-EFT: Bridging the Standard Model and Gravitation — DOI: `10.5281/zenodo.19981083` | URL: https://zenodo.org/records/19981083
-* **2026-8-19:** Theory of Heterocrystals: Unit-Cell Rupture, Emergent Gauge Fields, and Quantum Geometry — DOI: `10.5281/zenodo.22017051` | URL: https://zenodo.org/records/22017051
-* **2026-8-19:** Heterocrystalline chimeric technology: topology-gated multiphysics and risk-aware inverse design — DOI: `10.5281/zenodo.22017089` | URL: https://zenodo.org/records/22017089
-* **2026-7-30:** Dataset: Theory of heterocrystals — DOI: `10.5281/zenodo.21702944` | URL: https://zenodo.org/records/21702944
-* **2026-8-3:** Dataset: Heterocrystalline chimeric technology — DOI: `10.5281/zenodo.21778647` | URL: https://zenodo.org/records/21778647
-* **2026-10-22:** Heterocrystalline chimeric technology -- completed dataset — DOI: `10.5281/zenodo.23575685` | URL: https://zenodo.org/records/23575685
+* **2026-4-25:** TimeKK_Zenodo: A Modified Kaluza-Klein Framework for Quantum Gravity via Imaginary Time as a Fifth Dimension — DOI: `10.5281/zenodo.19764139` | URL: [https://zenodo.org/records/19764139](https://zenodo.org/records/19764139)
+* **2026-4-25:** A Unified Operational Framework for Wave–Particle Duality via Metaplectic Transforms — DOI: `10.5281/zenodo.19772394` | URL: [https://zenodo.org/records/19772394](https://zenodo.org/records/19772394)
+* **2026-4-28:** A Minimal Scalar-Vector-Spinor Effective Field Theory for Dark-Sector Phenomenology and Modified Cosmological Dynamics — DOI: `10.5281/zenodo.19855576` | URL: [https://zenodo.org/records/19855576](https://zenodo.org/records/19855576)
+* **2026-5-1:** A 5D Scalar-Vector-Spinor Effective Field Theory in Cl(2,3): Real-Imaginary Time Co-ordering Energy-Information — DOI: `10.5281/zenodo.19949736` | URL: [https://zenodo.org/records/19949736](https://zenodo.org/records/19949736)
+* **2026-5-2:** Metaplectic Holography and Gauge Embedding in 5D SVS-EFT: Bridging the Standard Model and Gravitation — DOI: `10.5281/zenodo.19981083` | URL: [https://zenodo.org/records/19981083](https://zenodo.org/records/19981083)
+* **2026-8-19:** Theory of Heterocrystals: Unit-Cell Rupture, Emergent Gauge Fields, and Quantum Geometry — DOI: `10.5281/zenodo.22017051` | URL: [https://zenodo.org/records/22017051](https://zenodo.org/records/22017051)
+* **2026-8-19:** Heterocrystalline chimeric technology: topology-gated multiphysics and risk-aware inverse design — DOI: `10.5281/zenodo.22017089` | URL: [https://zenodo.org/records/22017089](https://zenodo.org/records/22017089)
+* **2026-7-30:** Dataset: Theory of heterocrystals — DOI: `10.5281/zenodo.21702944` | URL: [https://zenodo.org/records/21702944](https://zenodo.org/records/21702944)
+* **2026-8-3:** Dataset: Heterocrystalline chimeric technology — DOI: `10.5281/zenodo.21778647` | URL: [https://zenodo.org/records/21778647](https://zenodo.org/records/21778647)
+* **2026-10-22:** Heterocrystalline chimeric technology -- completed dataset — DOI: `10.5281/zenodo.23575685` | URL: [https://zenodo.org/records/23575685](https://zenodo.org/records/23575685)
 
 ### Biomedical papers & datasets
-* **2026-5-8:** OCT4-MHC Tight Linkage in Mammals: A Comparative Evo-Devo, Immunogenomic, and Topological Framework — DOI: `10.5281/zenodo.20089673` | URL: https://zenodo.org/records/20089673
-* **2026-8-19:** Multilayer h-Backbones Identify KLRB1 as a Stable Immune-Ageing h-Focus across Populations, Tissues and Cell Lineages — DOI: `10.5281/zenodo.22018570` | URL: https://zenodo.org/records/22018570
-* **2026-8-22:** Multiscale h-Foci and CNS-Gated Reversal Identify Riluzole as a Repurposing Candidate in Alzheimer's Disease — DOI: `10.5281/zenodo.22057218` | URL: https://zenodo.org/records/22057218
-* **2026-8-28:** Spiro-Terpenoid Privileged Scaffolds: An Auditable Multiscale Workflow for Undruggable Targets — DOI: `10.5281/zenodo.22147096` | URL: https://zenodo.org/records/22147096
-* **2026-9-15:** Comparator-Dependent Druggability and Safety of Spiro-Terpenoid Scaffolds: A Proteome-Scale Pocket-Transfer Screen — DOI: `10.5281/zenodo.22770001` | URL: https://zenodo.org/records/22770001
-* **2026-7-21:** Dataset: Multilayer h-Backbones Identify KLRB1 as a Stable Immune-Ageing h-Focus across Populations, Tissues and Cell Lineages — DOI: `10.5281/zenodo.21464228` | URL: https://zenodo.org/records/21464228
-* **2026-7-22:** Dataset: Multiscale h-Foci and CNS-Gated Reversal Identify Riluzole as a Repurposing Candidate in Alzheimer's Disease — DOI: `10.5281/zenodo.21493971` | URL: https://zenodo.org/records/21493971
-* **2026-8-11:** Dataset: Spiro-Terpenoid Privileged Scaffolds — DOI: `10.5281/zenodo.21888841` | URL: https://zenodo.org/records/21888841
-* **2026-8-17:** Dataset: Comparator-Dependent Druggability and Safety of Spiro-Terpenoid Scaffolds — DOI: `10.5281/zenodo.21970731` | URL: https://zenodo.org/records/21970731
+* **2026-5-8:** OCT4-MHC Tight Linkage in Mammals: A Comparative Evo-Devo, Immunogenomic, and Topological Framework — DOI: `10.5281/zenodo.20089673` | URL: [https://zenodo.org/records/20089673](https://zenodo.org/records/20089673)
+* **2026-8-19:** Multilayer h-Backbones Identify KLRB1 as a Stable Immune-Ageing h-Focus across Populations, Tissues and Cell Lineages — DOI: `10.5281/zenodo.22018570` | URL: [https://zenodo.org/records/22018570](https://zenodo.org/records/22018570)
+* **2026-8-22:** Multiscale h-Foci and CNS-Gated Reversal Identify Riluzole as a Repurposing Candidate in Alzheimer's Disease — DOI: `10.5281/zenodo.22057218` | URL: [https://zenodo.org/records/22057218](https://zenodo.org/records/22057218)
+* **2026-8-28:** Spiro-Terpenoid Privileged Scaffolds: An Auditable Multiscale Workflow for Undruggable Targets — DOI: `10.5281/zenodo.22147096` | URL: [https://zenodo.org/records/22147096](https://zenodo.org/records/22147096)
+* **2026-9-15:** Comparator-Dependent Druggability and Safety of Spiro-Terpenoid Scaffolds: A Proteome-Scale Pocket-Transfer Screen — DOI: `10.5281/zenodo.22770001` | URL: [https://zenodo.org/records/22770001](https://zenodo.org/records/22770001)
+* **2026-7-21:** Dataset: Multilayer h-Backbones Identify KLRB1 as a Stable Immune-Ageing h-Focus across Populations, Tissues and Cell Lineages — DOI: `10.5281/zenodo.21464228` | URL: [https://zenodo.org/records/21464228](https://zenodo.org/records/21464228)
+* **2026-7-22:** Dataset: Multiscale h-Foci and CNS-Gated Reversal Identify Riluzole as a Repurposing Candidate in Alzheimer's Disease — DOI: `10.5281/zenodo.21493971` | URL: [https://zenodo.org/records/21493971](https://zenodo.org/records/21493971)
+* **2026-8-11:** Dataset: Spiro-Terpenoid Privileged Scaffolds — DOI: `10.5281/zenodo.21888841` | URL: [https://zenodo.org/records/21888841](https://zenodo.org/records/21888841)
+* **2026-8-17:** Dataset: Comparator-Dependent Druggability and Safety of Spiro-Terpenoid Scaffolds — DOI: `10.5281/zenodo.21970731` | URL: [https://zenodo.org/records/21970731](https://zenodo.org/records/21970731)
 
 ### Economic & Philosophical papers (SSRN)
-* **2026-5-2:** Market-Driven Growth with Knowledge and Capital as Twin Propellants: Integrating Melitz-Finance Micro-foundations and Ramsey Optimal Policy — DOI: `10.2139/ssrn.6697998` | URL: https://ssrn.com/abstract=6697998
-* **2026-5-3:** Probing the Efficiency-Equity-Innovation Trilemma: Economic Analysis via Grand Synthetic Model — DOI: `10.2139/ssrn.6703820` | URL: https://ssrn.com/abstract=6703820
-* **2026-5-4:** Knowledge-Driven Endogenous Growth in Open Economy: A Grand Synthetic Approach — DOI: `10.2139/ssrn.6709739` | URL: https://ssrn.com/abstract=6709739
-* **2026-9-8:** Knowledge and Capital as Co-evolving Productive Stocks: A Minimal Core of Grand Synthetic Economics — DOI: `10.2139/ssrn.7473120` | URL: https://ssrn.com/abstract=7473120
-* **2026-9-8:** Creative Destruction and Open-Market Reversals: Dynamic Equilibrium in Grand Synthetic Economics — DOI: `10.2139/ssrn.7473121` | URL: https://ssrn.com/abstract=7473121
-* **2026-5-12:** AI Philosophy from Triad Philosophy: Triadic Governance of Artificial Intelligence beyond Binary Minds — DOI: `10.2139/ssrn.6755681` | URL: https://ssrn.com/abstract=6755681
+* **2026-5-2:** Market-Driven Growth with Knowledge and Capital as Twin Propellants: Integrating Melitz-Finance Micro-foundations and Ramsey Optimal Policy — DOI: `10.2139/ssrn.6697998` | URL: [https://ssrn.com/abstract=6697998](https://ssrn.com/abstract=6697998)
+* **2026-5-3:** Probing the Efficiency-Equity-Innovation Trilemma: Economic Analysis via Grand Synthetic Model — DOI: `10.2139/ssrn.6703820` | URL: [https://ssrn.com/abstract=6703820](https://ssrn.com/abstract=6703820)
+* **2026-5-4:** Knowledge-Driven Endogenous Growth in Open Economy: A Grand Synthetic Approach — DOI: `10.2139/ssrn.6709739` | URL: [https://ssrn.com/abstract=6709739](https://ssrn.com/abstract=6709739)
+* **2026-9-8:** Knowledge and Capital as Co-evolving Productive Stocks: A Minimal Core of Grand Synthetic Economics — DOI: `10.2139/ssrn.7473120` | URL: [https://ssrn.com/abstract=7473120](https://ssrn.com/abstract=7473120)
+* **2026-9-8:** Creative Destruction and Open-Market Reversals: Dynamic Equilibrium in Grand Synthetic Economics — DOI: `10.2139/ssrn.7473121` | URL: [https://ssrn.com/abstract=7473121](https://ssrn.com/abstract=7473121)
+* **2026-5-12:** AI Philosophy from Triad Philosophy: Triadic Governance of Artificial Intelligence beyond Binary Minds — DOI: `10.2139/ssrn.6755681` | URL: [https://ssrn.com/abstract=6755681](https://ssrn.com/abstract=6755681)
 
 </details>
 
