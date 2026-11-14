@@ -58,6 +58,16 @@ graph TD
 | 2026-10-29 | `Economics` | **Grand Synthetic Economics** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09170--7-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091707)|
 | 2026-10-29 | `Philosophy` | **Triad Philosophy** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09191--2-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091912)|
 
+### 🎧🎬 Multimodal Overviews for 5 Flagship Monographs (五大核心专著中英双语播客与视频导览)
+
+| Domain | Flagship Monograph | 🎧 Audio Overview (AI Podcast) | 🎬 Video Overview (Visual Guide) |
+| :--- | :--- | :---: | :---: |
+| **Mathematics**<br>*(RH & GRH)* | **Spectral-Geometric Program of the Riemann and Grand Riemann Hypotheses** | [🇬🇧 English](https://notebooklm.link.google/5WdOp5NUHPBW) \| [🇨🇳 中文](https://notebooklm.link.google/O2PzczEmb4Ke) | [🇬🇧 English](https://notebooklm.link.google/F7M1W0DCJ9QX) \| [🇨🇳 中文](https://notebooklm.link.google/wnHA21vB5K87) |
+| **Physics**<br>*(5D SVS-EFT)* | **Scalar-Vector-Spinor Effective Field Theory: A 5D Cl(2,3) Physical Unification** | [🇬🇧 English](https://notebooklm.link.google/Ry1ZdRHVOnYz) \| [🇨🇳 中文](https://notebooklm.link.google/k9EmC3KgMbnv) | [🇬🇧 English](https://notebooklm.link.google/sEK1m2AqfS88) \| [🇨🇳 中文](https://notebooklm.link.google/TuEQeO8mIwjL) |
+| **Materials**<br>*(HCT)* | **Heterocrystalline Chimeric Technology: Foundations, Mechanisms, and Applications** | [🇬🇧 English](https://notebooklm.link.google/pywaDSSEQRnr) \| [🇨🇳 中文](https://notebooklm.link.google/RFb5ag59QQko) | [🇬🇧 English](https://notebooklm.link.google/dmqdm8t2pYkh) \| [🇨🇳 中文](https://notebooklm.link.google/QxYYG68SRP4F) |
+| **Economics**<br>*(GSE)* | **Grand Synthetic Economics (GSE): Knowledge-Capital Evolutionary Growth Theory** | [🇬🇧 English](https://notebooklm.link.google/BoZ1gUlmq7XT) \| [🇨🇳 中文](https://notebooklm.link.google/UYKbqRSOcQqo) | [🇬🇧 English](https://notebooklm.link.google/ii46kJ79WJ87) \| [🇨🇳 中文](https://notebooklm.link.google/lIyo3DPzYQVO) |
+| **Philosophy**<br>*(Triad Phil)* | **The Triad Philosophy: Merging Western and Eastern Thoughts for Human-Machine Era** | [🇬🇧 English](https://notebooklm.link.google/DQ0gswym5ijS) \| [🇨🇳 中文](https://notebooklm.link.google/SQKOThz0EFQu) | [🇬🇧 English](https://notebooklm.link.google/csDERf4Wj5mq) \| [🇨🇳 中文](https://notebooklm.link.google/obJifgwlvw5n) |
+
 ---
 
 ## 2. Mathematical Papers (Riemann Hypothesis, Spectral Flow & Langlands)
