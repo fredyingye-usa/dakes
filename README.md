@@ -150,7 +150,7 @@ graph TD
   DOI: `10.5281/zenodo.22770350` | URL: [https://zenodo.org/records/22770350](https://zenodo.org/records/22770350)
 
 ### Physical monographs
-* **2026-6-26: Vortex Field Theory: New Principles for Approaching Physical Unification.** B&N Press ISBN: `979-8-823-18069-6`  
+* **2023-1-16: Vortex Field Theory: New Principles for Approaching Physical Unification.** B&N Press ISBN: `979-8-823-18069-6`  
   DOI: `10.5281/zenodo.23675225` | URL: [https://zenodo.org/records/23675225](https://zenodo.org/records/23675225)
 * **2026-6-26: Scalar-Vector-Spinor Effective Field Theory: A 5D Cl(2,3) Physical Unification.** B&N Press ISBN: `979-8-182-50531-4`  
   DOI: `10.5281/zenodo.23675315` | URL: [https://zenodo.org/records/23675315](https://zenodo.org/records/23675315)
