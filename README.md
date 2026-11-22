@@ -56,6 +56,7 @@ graph TD
 | 2023-01-16 | `Phys` | **Vortex Field Theory: New Principles for Approaching Physical Unification** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--823--18069--6-00573F.svg)](https://www.barnesandnoble.com/search?q=9798823180696)<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23675225.svg)](https://zenodo.org/records/23675225) | <nobr>🎧 **Audio:** [EN](https://notebooklm.link.google/3Jgk9yQksmkc) \| [中文](https://notebooklm.link.google/YBBdPfvTBxH9)</nobr><br><nobr>🎬 **Video:** [EN](https://notebooklm.link.google/C1SUPYDqklDN) \| [中文](https://notebooklm.link.google/VEdYAr7u5zRO)</nobr> |
 | 2026-10-29 | `Phys` | **Heterocrystalline Chimeric Technology** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09161--5-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091615)<br>[![Data](https://zenodo.org/badge/DOI/10.5281/zenodo.23575685.svg)](https://zenodo.org/records/23575685)|<nobr>🎧 **Audio:** [EN](https://notebooklm.link.google/pywaDSSEQRnr) \| [中文](https://notebooklm.link.google/RFb5ag59QQko)</nobr><br><nobr>🎬 **Video:** [EN](https://notebooklm.link.google/dmqdm8t2pYkh) \| [中文](https://notebooklm.link.google/QxYYG68SRP4F)</nobr> |
 | 2026-10-29 | `Econ` | **Grand Synthetic Economics** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09170--7-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091707) | <nobr>🎧 **Audio:** [EN](https://notebooklm.link.google/BoZ1gUlmq7XT) \| [中文](https://notebooklm.link.google/UYKbqRSOcQqo)</nobr><br><nobr>🎬 **Video:** [EN](https://notebooklm.link.google/ii46kJ79WJ87) \| [中文](https://notebooklm.link.google/lIyo3DPzYQVO)</nobr> |
+| 2026-10-29 | `Inf` | **Bookics** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09177--6-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091776) | <nobr>🎧 **Audio:** [EN](https://notebooklm.link.google/SfTQwp34qlmw) \| [中文](https://notebooklm.link.google/oA3qRIpuuUXf)</nobr><br><nobr>🎬 **Video:** [EN](https://notebooklm.link.google/ohV2Vlb8Zxis) \| [中文](https://notebooklm.link.google/3nrrjF6dfa9n)</nobr> |
 | 2026-10-29 | `Phil` | **Triad Philosophy** | [![B&N ISBN](https://img.shields.io/badge/B%26N_ISBN-979--8--179--09191--2-00573F.svg)](https://www.barnesandnoble.com/search?q=9798179091912) | <nobr>🎧 **Audio:** [EN](https://notebooklm.link.google/DQ0gswym5ijS) \| [中文](https://notebooklm.link.google/SQKOThz0EFQu)</nobr><br><nobr>🎬 **Video:** [EN](https://notebooklm.link.google/csDERf4Wj5mq) \| [中文](https://notebooklm.link.google/obJifgwlvw5n)</nobr> |
 
 ---
@@ -63,6 +64,7 @@ graph TD
 ## 2. Mathematical Papers (Riemann Hypothesis, Spectral Flow & Langlands)
 | Date | Type | Title | Permanent Identifier (DOI) |
 | :--- | :--- | :--- | :--- |
+| 2026-11-21 | `Paper` | A Mixed Arakelov and Spectral-Geometric Approach to the Riemann and Dirichlet Generalized Riemann Hypotheses | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24441872.svg)](https://zenodo.org/records/24441872) 
 | 2026-04-24 | `Paper` | Reversal Dual Calculus: Harmonic Regularization in Gravitational Potential and Zeta Function Duality | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19764503.svg)](https://zenodo.org/records/19764503) |
 | 2026-06-27 | `Paper` | Spectral Flow and Categorified Index for Higher-Dimensional Prime-Torus Packets over the Scaling Site | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20944516.svg)](https://zenodo.org/records/20944516) |
 | 2026-06-27 | `Paper` | From Prime Circles to Fargues-Fontaine Curves: A Conditional Spectral-Flow Framework for Local Arithmetic Langlands | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20944785.svg)](https://zenodo.org/records/20944785) |
@@ -76,6 +78,7 @@ graph TD
 | 2026-11-02 | `Paper` | Quantitative Ground State Closure for the Weil Operator and Diagonal Hurwitz Reduction of the Riemann Hypothesis | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886960.svg)](https://zenodo.org/records/23886960) |
 | 2026-11-02 | `Paper` | Two Decisive Closure Theorems for a Weil Hurwitz Approach to the Riemann Hypothesis | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23887241.svg)](https://zenodo.org/records/23887241) |
 | 2026-11-02 | `Paper` | Four Gate Certification for a Weil Hurwitz Route to the Riemann Hypothesis | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23887551.svg)](https://zenodo.org/records/23887551) |
+| 2026-11-21 | `Data & Lean` | A Mixed Arakelov and Spectral-Geometric Approach to the Riemann and Dirichlet Generalized Riemann Hypotheses | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24441765.svg)](https://zenodo.org/records/24441765) 
 
 ---
 
