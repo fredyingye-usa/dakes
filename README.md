@@ -65,6 +65,7 @@ graph TD
 | Date | Type | Title | Permanent Identifier (DOI) |
 | :--- | :--- | :--- | :--- |
 | 2026-11-21 | `Paper` | A Mixed Arakelov and Spectral-Geometric Approach to the Riemann and Dirichlet Generalized Riemann Hypotheses | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24441872.svg)](https://zenodo.org/records/24441872) 
+| 2026-11-23 | `Paper` | Exterior spectral comparison and central data in the Birch and Swinnerton-Dyer conjecture for elliptic curves | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24481062.svg)](https://zenodo.org/records/24481062) 
 | 2026-04-24 | `Paper` | Reversal Dual Calculus: Harmonic Regularization in Gravitational Potential and Zeta Function Duality | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19764503.svg)](https://zenodo.org/records/19764503) |
 | 2026-06-27 | `Paper` | Spectral Flow and Categorified Index for Higher-Dimensional Prime-Torus Packets over the Scaling Site | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20944516.svg)](https://zenodo.org/records/20944516) |
 | 2026-06-27 | `Paper` | From Prime Circles to Fargues-Fontaine Curves: A Conditional Spectral-Flow Framework for Local Arithmetic Langlands | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20944785.svg)](https://zenodo.org/records/20944785) |
@@ -78,7 +79,8 @@ graph TD
 | 2026-11-02 | `Paper` | Quantitative Ground State Closure for the Weil Operator and Diagonal Hurwitz Reduction of the Riemann Hypothesis | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886960.svg)](https://zenodo.org/records/23886960) |
 | 2026-11-02 | `Paper` | Two Decisive Closure Theorems for a Weil Hurwitz Approach to the Riemann Hypothesis | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23887241.svg)](https://zenodo.org/records/23887241) |
 | 2026-11-02 | `Paper` | Four Gate Certification for a Weil Hurwitz Route to the Riemann Hypothesis | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23887551.svg)](https://zenodo.org/records/23887551) |
-| 2026-11-21 | `Data & Lean` | A Mixed Arakelov and Spectral-Geometric Approach to the Riemann and Dirichlet Generalized Riemann Hypotheses | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24441765.svg)](https://zenodo.org/records/24441765) 
+| 2026-11-21 | `Lean Package` | A Mixed Arakelov and Spectral-Geometric Approach to the Riemann and Dirichlet Generalized Riemann Hypotheses | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24441765.svg)](https://zenodo.org/records/24441765) 
+| 2026-11-23 | `Lean Package` | Exterior spectral comparison and central data in the Birch and Swinnerton-Dyer conjecture for elliptic curves | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24479382.svg)](https://zenodo.org/records/24479382) 
 
 ---
 
